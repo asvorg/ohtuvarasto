@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 global-exclude __pycache__
 global-exclude .pytest_cache
 global-exclude *.tmp
+=======
+*.tmp
+__pycache__
+.pytest
+.coverage
+htmlcov
+>>>>>>> 77210e5c75d3fc84a99e1feb55785d55e31d1729
